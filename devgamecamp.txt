@@ -1,0 +1,5 @@
+
+// skeliton
+https://github.com/bryanbibat/html5-gamedev-2014
+// tutorial
+https://leanpub.com/html5shootemupinanafternoon/read
